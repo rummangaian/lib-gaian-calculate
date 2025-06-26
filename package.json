@@ -1,0 +1,20 @@
+{
+  "name": "lib-gaian-calculate",
+  "version": "1.0.0",
+  "description": "gaian application for calculation",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rummangaian/lib-gaian-calculate.git"
+  },
+  "author": "Rumman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rummangaian/lib-gaian-calculate/issues"
+  },
+  "homepage": "https://github.com/rummangaian/lib-gaian-calculate#readme"
+}
